@@ -1,0 +1,17 @@
+{
+  "name": "api-response-modifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Gokul M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
